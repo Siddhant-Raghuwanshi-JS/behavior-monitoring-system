@@ -68,6 +68,9 @@ python analyze.py
 ## 💡 Key Innovation
 This system uses a **rule-based scoring mechanism** instead of simple detection, allowing it to analyze behavior patterns over time.
 
+
+## 💡 Important Note!!! 
+Built with the assistance of AI tools, with custom system design and behavior logic implemented independently.
 ---
 
 ## 👨‍💻 Author
